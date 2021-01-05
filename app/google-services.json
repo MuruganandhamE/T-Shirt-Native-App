@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1021227544403",
+    "project_id": "t-shirt-87198",
+    "storage_bucket": "t-shirt-87198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021227544403:android:155994072199eb38c5fba6",
+        "android_client_info": {
+          "package_name": "com.muruga.t_shirt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021227544403-c6jpst9om9d02rsgf63o1iq41adva9k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muruga.t_shirt",
+            "certificate_hash": "b78520bf578507e605c87c7ab68158529e0884ac"
+          }
+        },
+        {
+          "client_id": "1021227544403-3erl404rbnd9363van5v7drc0k8jk0pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAURYL0y2e86d_6afRRYZ6JYCQCifQPxwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021227544403-3erl404rbnd9363van5v7drc0k8jk0pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
